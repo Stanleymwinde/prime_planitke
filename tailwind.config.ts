@@ -17,7 +17,7 @@ const config: Config = {
         "gradient-conic":
           "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
         "gradient-agency": "linear-gradient(135deg, #bd65b7 0%, #6b2e67 100%)",
-        "image-hero": "url('/images/test-hero-2.jpg')",
+        "image-hero": "url('/images/prime.jpg')",
         "gradient-section": "linear-gradient(180deg, #ffffff 0%, #f7fafc 100%)",
       },
       borderRadius: {
